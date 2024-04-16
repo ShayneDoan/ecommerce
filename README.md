@@ -26,6 +26,8 @@ npm install
 npm run start
 ```
 
+![Screenshot 2024-04-16 170239](https://github.com/ShayneDoan/ecommerce/assets/69595474/772f8cba-62e5-436d-a9fb-6c527ad4b67c)
+
 ## Author
 
 👤 **Shayaan Sufi**
